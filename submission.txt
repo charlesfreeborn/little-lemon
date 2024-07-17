@@ -1,0 +1,5 @@
+contract_address = 0x5149E225310a4585BE09a550220b74A088B914fD
+
+decentralized_id = 0xf0CCe84C6277Cb634DbebD58b02F00CDf207Ae7e
+
+beneficiary_address = 0xD4a78B5bfb6dBE93a00BE1b70ca1a6Abf59d251d
